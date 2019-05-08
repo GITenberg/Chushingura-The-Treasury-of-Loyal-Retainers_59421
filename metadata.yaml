@@ -1,0 +1,33 @@
+_repo: Chushingura-The-Treasury-of-Loyal-Retainers_59421
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Inouye, Jukichi
+    gutenberg_agent_id: '50443'
+    url: http://www.gutenberg.org/2009/agents/50443
+creator:
+  authors:
+  - agent_name: Miyoshi
+    gutenberg_agent_id: '50441'
+    url: http://www.gutenberg.org/2009/agents/50441
+  - agent_name: Namiki
+    gutenberg_agent_id: '50442'
+    url: http://www.gutenberg.org/2009/agents/50442
+  - agent_name: Takeda
+    gutenberg_agent_id: '50440'
+    url: http://www.gutenberg.org/2009/agents/50440
+description: ''
+gutenberg_issued: '2019-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chushingura
+
+  The Treasury of Loyal Retainers'
+url: http://www.gutenberg.org/ebooks/59421
